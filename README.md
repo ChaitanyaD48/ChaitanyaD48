@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Deshmukh</h1>
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Chaitanya Deshmukh</h1>
 🔭 I’m currently working on WebProject and honing my skills in data structures and algorithms.<br>🌱 I’m currently learning NodeJS, TypeScript, Tailwind CSS<br>👯 I’m looking forward to collaborate on open source projects.<br>
 
 
@@ -15,9 +15,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChaitanyaD48&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChaitanyaD48&icon=0&color=0)](https://visitcount.itsvg.in)
