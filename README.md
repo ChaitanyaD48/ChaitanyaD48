@@ -1,5 +1,5 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Chaitanya Deshmukh</h1>
+# 💫 About Me:
 🔭 I’m currently working on WebProject and honing my skills in data structures and algorithms.<br>🌱 I’m currently learning NodeJS, TypeScript, Tailwind CSS<br>👯 I’m looking forward to collaborate on open source projects.<br>
 
 
