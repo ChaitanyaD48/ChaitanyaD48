@@ -1,6 +1,6 @@
 <h1 align="center">Hi! 👋, I'm Chaitanya Deshmukh</h1>
 💫 About Me :
-🔭 I’m currently working on FarmOre and honing my skills in Data Structures and Algorithms.<br>🌱 I’m currently learning TypeScript, Tailwind CSS.<br>👯 I’m looking forward to collaborate on open source projects<br>
+🔭 I’m currently working on Solidity and honing my skills in Data Structures and Algorithms.<br>🌱 I’m currently learning TypeScript, Tailwind CSS.<br>👯 I’m looking forward to collaborate on open source projects<br>
 
 
 ## 🌐 Socials:
