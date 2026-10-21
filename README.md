@@ -1,6 +1,6 @@
 # Chaitanya Deshmukh
 
-Software Engineer · Distributed Systems · Open Source
+Software Engineer · Distributed Systems · Databases · Open Source
 
 I like tracing how systems work, understanding where they break, and contributing
 what I learn back to the projects I use. My interests center on databases,
